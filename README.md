@@ -6,7 +6,7 @@ Ce serveur Minecraft a une longue histoire ; il a ouvert pour la première fois 
 
 ## Commencez à travailler !
 - Veuillez premièrement commencer par lire [CONTRIBUTING.md](https://github.com/Aycraft/Aycraft/blob/master/CONTRIBUTING.md)
-- Vous voulez rejoindre l'équipe d'Aycraft ? [Postulez]() !
+- Vous voulez rejoindre l'équipe d'Aycraft ? [Postulez](https://goo.gl/forms/P3tbQquA8DjmWIOC3) !
 - Vous préférez travailler en solo ? Utilisez git ou le bouton de téléchargement (à droite) pour télécharger le code du serveur.
 
 
