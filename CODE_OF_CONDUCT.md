@@ -8,7 +8,7 @@ Ce code de conduite décrit nos attentes à l'égard de tous ceux qui participen
 
 Nous invitons tous ceux qui participent à Aycraft à nous aider à créer des expériences sûres et positives pour tous.
 
-## 2. Open [Source/Culture/Tech] Citoyenneté
+## 2. Open[Source/Culture/Tech] Citoyenneté
 
 Un objectif supplémentaire de ce Code de conduite est d'accroître la citoyenneté ouverte [source/culture/technologie] en encourageant les participants à reconnaître et à renforcer les relations entre nos actions et leurs effets sur notre communauté.
 
@@ -37,7 +37,7 @@ Les comportements suivants sont considérés comme du harcèlement et sont inacc
  * Afficher ou menacer d'afficher des renseignements personnels permettant d'identifier d'autres personnes (" doxing ").
  * Les insultes personnelles, en particulier celles liées au sexe, à l'orientation sexuelle, à la race, à la religion ou au handicap.
  * Photographie ou enregistrement inapproprié.
- *Contact physique inapproprié. Vous devriez avoir le consentement de quelqu'un avant de le toucher.
+ * Contact physique inapproprié. Vous devriez avoir le consentement de quelqu'un avant de le toucher.
  * Attention sexuelle importunée. Cela comprend les commentaires ou les blagues sexualisés, les attouchements inappropriés, les tâtonnements et les avances sexuelles non souhaitées.
  * Intimidation délibérée, harcèlement ou suivi (en ligne ou en personne).
  * Défendre ou encourager l'un ou l'autre de ces comportements.
@@ -57,18 +57,15 @@ Si un membre de la communauté adopte un comportement inacceptable, les organisa
 
 ## 7. Lignes directrices en matière de présentation de rapports
 
-Si vous êtes victime ou témoin d'un comportement inacceptable, ou si vous avez d'autres préoccupations, veuillez en aviser un organisateur communautaire dès que possible. vianney.veremme@gmail.com.
+Si vous êtes victime ou témoin d'un comportement inacceptable, ou si vous avez d'autres préoccupations, veuillez en aviser un organisateur communautaire dès que possible. aygame101@gmail.com.
 
-
+[Directives pour la présentation des rapports] (https://github.com/Aycraft/Aycraft/blob/master/.github/ISSUE_TEMPLATE/demande-de-fonctionnalit-s.md)
 
 De plus, des organisateurs communautaires sont disponibles pour aider les membres de la communauté à s'engager avec les forces de l'ordre locales ou pour aider ceux qui ont un comportement inacceptable à se sentir en sécurité. Dans le cadre d'événements en personne, les organisateurs fourniront également des services d'escorte si la personne en détresse le désire.
 
-
 ## 8. Traitement des griefs
 
-Si vous pensez avoir été accusé faussement ou injustement d'avoir violé ce Code de Conduite, vous devez en informer Aycraft avec une description concise de votre grief. Votre grief sera traité conformément à nos politiques en vigueur. 
-
-
+Si vous pensez avoir été accusé faussement ou injustement d'avoir violé ce Code de Conduite, vous devez en informer Aycraft avec une description concise de votre grief. Votre grief sera traité conformément à nos politiques en vigueur. [Politique](https://github.com/Aycraft/Aycraft/blob/master/CODE_OF_OF_CONDUCT.md)
 
 ## 9. Portée
 
@@ -78,13 +75,13 @@ Le présent code de conduite et ses procédures connexes s'appliquent également
 
 ## 10. Coordonnées de contact
 
-vianney.veremme@gmail.com
+aygame101@gmail.com
 
 ## 11. Licence et attribution
 
-Le Code de conduite des citoyens est distribué par [Stumptown Syndicate](http://stumptownsyndicate.org) sous une [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+Le Code de conduite des citoyens est distribué par[Stumptown Syndicate](http://stumptownsyndicate.org) sous une[Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
-Certaines parties du texte sont tirées du [Code de conduite de Django] (https://www.djangoproject.com/conduct/) et de la [Politique anti-harcèlement du féminisme geek] (http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
+Certaines parties du texte sont tirées du [Code de conduite de Django](https://www.djangoproject.com/conduct/) et de la [Politique anti-harcèlement du féminisme geek](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
 Révision 2.3. Affichée le 6 mars 2017.
 
@@ -92,4 +89,4 @@ Révision 2.2. Affichée le 4 février 2016.
 
 Révision 2.1. Affichée le 23 juin 2014.
 
-Révision 2.0, adoptée par le conseil d'administration de [Stumptown Syndicate](http://stumptownsyndicate.org) le 10 janvier 2013. Affichée le 17 mars 2013.
+Révision 2.0, adoptée par le conseil d'administration du [Stumptown Syndicate](http://stumptownsyndicate.org) le 10 janvier 2013. Affichée le 17 mars 2013.
