@@ -10,7 +10,7 @@ Nous invitons tous ceux qui participent à Aycraft à nous aider à créer des e
 
 ## 2. Citoyenneté ouverte [source/culture/technologie]
 
-Un objectif supplémentaire de ce Code de conduite est d'accroître la citoyenneté ouverte [source/culture/technologie] en encourageant les participants à reconnaître et à renforcer les relations entre nos actions et leurs effets sur notre communauté.
+Un objectif supplémentaire de ce code de conduite est d'accroître la citoyenneté ouverte [source/culture/technologie] en encourageant les participants à reconnaître et à renforcer les relations entre nos actions et leurs effets sur notre communauté.
 
 Les communautés reflètent les sociétés dans lesquelles elles existent et une action positive est essentielle pour contrer les nombreuses formes d'inégalité et d'abus de pouvoir qui existent dans la société.
 
@@ -24,7 +24,7 @@ Les comportements suivants sont attendus et exigés de tous les membres de la co
  * Faites preuve de considération et de respect dans votre discours et vos actions.
  * Tenter la collaboration avant le conflit.
  * S'abstenir de tout comportement ou discours dégradant, discriminatoire ou harcelant.
- * Soyez attentif à votre environnement et à celui des autres participants. Alertez les leaders de la communauté si vous remarquez une situation dangereuse, une personne en détresse ou une violation de ce Code de conduite, même si elle vous semble sans importance.
+ * Soyez attentif à votre environnement et à celui des autres participants. Alertez les leaders de la communauté si vous remarquez une situation dangereuse, une personne en détresse ou une violation de ce code de conduite, même si elle vous semble sans importance.
  * N'oubliez pas que les lieux des événements communautaires peuvent être partagés avec les membres du public ; veuillez respecter tous les clients de ces endroits.
 
 ## 4. Comportement inacceptable
@@ -34,7 +34,7 @@ Les comportements suivants sont considérés comme du harcèlement et sont inacc
  * Violence, menaces de violence ou langage violent dirigé contre une autre personne.
  * Blagues et langage sexistes, racistes, homophobes, transphobes, capables ou autrement discriminatoires.
  * Afficher ou afficher du matériel sexuellement explicite ou violent.
- * Afficher ou menacer d'afficher des renseignements personnels permettant d'identifier d'autres personnes (" doxing ").
+ * Afficher ou menacer d'afficher des renseignements personnels permettant d'identifier d'autres personnes (« doxing »).
  * Les insultes personnelles, en particulier celles liées au sexe, à l'orientation sexuelle, à la race, à la religion ou au handicap.
  * Photographie ou enregistrement inapproprié.
  * Contact physique inapproprié. Vous devriez avoir le consentement de quelqu'un avant de le toucher.
@@ -67,7 +67,7 @@ De plus, des organisateurs communautaires sont disponibles pour aider les membre
 
 ## 8. Traitement des griefs
 
-Si vous pensez avoir été accusé faussement ou injustement d'avoir violé ce Code de Conduite, vous devez en informer Aycraft avec une description concise de votre grief. Votre grief sera traité conformément à nos politiques en vigueur. [Politique](https://github.com/Aycraft/Aycraft/blob/master/CODE_OF_OF_CONDUCT.md)
+Si vous pensez avoir été accusé faussement ou injustement d'avoir violé ce code de conduite, vous devez en informer Aycraft avec une description concise de votre grief. Votre grief sera traité conformément à nos politiques en vigueur. [Politique](https://github.com/Aycraft/Aycraft/blob/master/CODE_OF_OF_CONDUCT.md)
 
 ## 9. Portée
 
@@ -82,7 +82,7 @@ Le présent code de conduite et ses procédures connexes s'appliquent également
 
 ## 11. Licence et attribution
 
-Le Code de conduite des citoyens est distribué par[Stumptown Syndicate](http://stumptownsyndicate.org) sous une[Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
+Le code de conduite des citoyens est distribué par le [Syndicat de Stumptown](http://stumptownsyndicate.org), sous une [Licence Creative Commons Paternité-Partage à l'identique](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Certaines parties du texte sont tirées du [Code de conduite de Django](https://www.djangoproject.com/conduct/) et de la [Politique anti-harcèlement du féminisme geek](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy).
 
@@ -92,4 +92,4 @@ Révision 2.2. Affichée le 4 février 2016.
 
 Révision 2.1. Affichée le 23 juin 2014.
 
-Révision 2.0, adoptée par le conseil d'administration du [Stumptown Syndicate](http://stumptownsyndicate.org) le 10 janvier 2013. Affichée le 17 mars 2013.
+Révision 2.0, adoptée par le conseil d'administration du [Syndicat de Stumptown](http://stumptownsyndicate.org) le 10 janvier 2013. Affichée le 17 mars 2013.
