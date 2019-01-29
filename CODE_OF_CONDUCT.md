@@ -8,7 +8,7 @@ Ce code de conduite décrit nos attentes à l'égard de tous ceux qui participen
 
 Nous invitons tous ceux qui participent à Aycraft à nous aider à créer des expériences sûres et positives pour tous.
 
-## 2. Open[Source/Culture/Tech] Citoyenneté
+## 2. Citoyenneté ouverte [source/culture/technologie]
 
 Un objectif supplémentaire de ce Code de conduite est d'accroître la citoyenneté ouverte [source/culture/technologie] en encourageant les participants à reconnaître et à renforcer les relations entre nos actions et leurs effets sur notre communauté.
 
@@ -57,9 +57,11 @@ Si un membre de la communauté adopte un comportement inacceptable, les organisa
 
 ## 7. Lignes directrices en matière de présentation de rapports
 
-Si vous êtes victime ou témoin d'un comportement inacceptable, ou si vous avez d'autres préoccupations, veuillez en aviser un organisateur communautaire dès que possible. aygame101@gmail.com.
+Si vous êtes victime ou témoin d'un comportement inacceptable, ou si vous avez d'autres préoccupations, veuillez en aviser un organisateur communautaire dès que possible.
+* aygame101@gmail.com
+* vianney.veremme@gmail.com
 
-[Directives pour la présentation des rapports] (https://github.com/Aycraft/Aycraft/blob/master/.github/ISSUE_TEMPLATE/demande-de-fonctionnalit-s.md)
+[Directives pour la présentation des rapports](https://github.com/Aycraft/Aycraft/blob/master/.github/ISSUE_TEMPLATE/demande-de-fonctionnalit-s.md)
 
 De plus, des organisateurs communautaires sont disponibles pour aider les membres de la communauté à s'engager avec les forces de l'ordre locales ou pour aider ceux qui ont un comportement inacceptable à se sentir en sécurité. Dans le cadre d'événements en personne, les organisateurs fourniront également des services d'escorte si la personne en détresse le désire.
 
@@ -75,7 +77,8 @@ Le présent code de conduite et ses procédures connexes s'appliquent également
 
 ## 10. Coordonnées de contact
 
-aygame101@gmail.com
+* aygame101@gmail.com
+* vianney.veremme@gmail.com
 
 ## 11. Licence et attribution
 
