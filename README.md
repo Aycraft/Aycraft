@@ -24,7 +24,7 @@ Ce serveur Minecraft a une longue histoire ; il a ouvert pour la première fois 
 - **Mathaym** - Concepteur en chef.
 - **Vianpyro** - Rédacteur en chef.
 
-Allez voir la liste des membres du personnel, et aussi la liste des [contributeurs]() qui ont participé à ce projet !
+Allez voir la liste des membres du personnel, et aussi la liste des [contributeurs](https://github.com/Aycraft/Aycraft/wiki/Liste-des-contributeurs) qui ont participé à ce projet !
 
 
 ## Licence
