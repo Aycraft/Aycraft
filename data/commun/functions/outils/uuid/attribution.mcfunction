@@ -9,5 +9,5 @@
 # ==================================================================================================
 
 # Donne l'UUID au joueur et incrémente la variable de support
-scoreboard players operation @s commun_UUID = UUID commun_Variable
 scoreboard players add UUID commun_Variable 1
+scoreboard players operation @s commun_UUID = UUID commun_Variable
