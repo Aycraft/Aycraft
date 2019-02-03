@@ -1,12 +1,18 @@
-# ==================================================================================================
-# Cette fonction execute ce qu'il faut à la connexion de l'ancien joueur.
-#
-# Mode de déclenchement : event
-# Déclencheur(s) : "commun:connexion/ancien_joueur/verification"
-#
+#========================================
+# Mode de déclenchement :
+    # Event
+ 
+# Déclencheurs :
+    # commun:connexion/ancien_joueur/detection
+ 
+# Fonction du fichier :
+    # Execute ce qu'il faut à la connexion de l'ancien joueur
+ 
 # Tags utilisés :
-#
-# ==================================================================================================
+    # ----
+#========================================
+
+
 
 tellraw @a [{"text":"[","color":"gray"},{"text":"+","color":"green"},{"text":"] ","color":"gray"},{"selector":"@s"}]
 

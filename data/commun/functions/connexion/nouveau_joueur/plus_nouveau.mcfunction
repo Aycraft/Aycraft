@@ -1,12 +1,18 @@
-# ==================================================================================================
-# Cette fonction passe le nouveau joueur en tant que joueur normal.
-#
-# Mode de déclenchement : event
-# Déclencheur(s) : "commun:connexion/nouveau_joueur/detection"
-#
+#========================================
+# Mode de déclenchement :
+    # Event
+ 
+# Déclencheurs :
+    # commun:connexion/nouveau_joueur/detection
+ 
+# Fonction du fichier :
+    # Passe le nouveau joueur en tant que joueur normal.
+ 
 # Tags utilisés :
-#
-# ==================================================================================================
+    # ----
+#========================================
+
+
 
 # Attribution du nouveau grade
 scoreboard players set @s commun_Grade 1
