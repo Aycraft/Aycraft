@@ -1,29 +1,35 @@
-# ==================================================================================================
-# Cette fonction initialise les gamerules aux bonnes valeurs.
+#========================================
+# Mode de déclenchement :
+#     Load
 #
-# Type d'activation : load
-# Activateur(s) : "commun:initialisation"
+# Déclencheurs :
+#     commun:load
+#
+# Fonction du fichier :
+#     Initialise les gamerules et le worldspawn aux bonnes valeurs
 #
 # Tags utilisés :
-#
-# ==================================================================================================
+#     ----
+#========================================
+
+
 
 # Définition des gamerules
-gamerule announceAdvancements true
+gamerule announceAdvancements false
 gamerule commandBlockOutput false
 gamerule disableElytraMovementCheck false
 gamerule doDaylightCycle false
 gamerule doEntityDrops true
 gamerule doFireTick false
-gamerule doLimitedCrafting false
-gamerule doMobLoot false
+gamerule doLimitedCrafting true
+gamerule doMobLoot true
 gamerule doMobSpawning false
 gamerule doTileDrops true
 gamerule doWeatherCycle false
 gamerule keepInventory false
 gamerule logAdminCommands true
-gamerule maxCommandChainLength 65536
-gamerule maxEntityCramming 24
+gamerule maxCommandChainLength 1000000
+gamerule maxEntityCramming 25
 gamerule mobGriefing false
 gamerule naturalRegeneration true
 gamerule randomTickSpeed 3
@@ -34,7 +40,10 @@ gamerule spawnRadius 0
 gamerule spectatorsGenerateChunks false
 
 # Définition d'autres règles diverses
+setworldspawn 0 100 0
 defaultgamemode adventure
-setworldspawn 0 1 0
 worldborder center 0 0
-worldborder set 50000
+worldborder set 60000000
+
+# Régulation des datapacks en vigueur
+datapack disable vanilla

@@ -1,12 +1,18 @@
-# ==================================================================================================
-# Cette fonction assure la protection totale aux joueurs qui l'éxecutent.
+#========================================
+# Mode de déclenchement :
+#     Event
 #
-# Type d'activation : event
-# Activateur(s) :
+# Déclencheurs :
+#     spawn:gestion_joueurs/securite
 #
-# Tag(s) utilisé(s) :
+# Fonction du fichier :
+#     Assure la protection totale aux joueurs qui appellent la fonction.
 #
-# ==================================================================================================
+# Tags utilisés :
+#     ----
+#========================================
+
+
 
 # Rétablissement de la nourriture
 execute unless entity @s[nbt={foodLevel:20}] run effect give @s saturation 1 255 true

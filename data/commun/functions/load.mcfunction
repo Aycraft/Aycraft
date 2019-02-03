@@ -1,12 +1,18 @@
-# ==================================================================================================
-# Cette fonction sert à (...).
+#========================================
+# Mode de déclenchement :
+#     Load
 #
-# Type d'activation : load
-# Activateur(s) : ""
+# Déclencheurs :
+#     ----
+#
+# Fonction du fichier :
+#     ----
 #
 # Tags utilisés :
-#
-# ==================================================================================================
+#     ----
+#========================================
+
+
 
 # Update des gamerules
 function commun:global_serveurgamerules
@@ -16,6 +22,3 @@ function commun:grades/creation
 
 # Initialisation des valeurs constantes
 function commun:outils/constantes
-
-# Initialisation des scores
-function commun:scores

@@ -1,16 +1,21 @@
-# ==================================================================================================
-# Cette fonction gère l'attribution des grades aux joueurs.
-# Plus le score commun_Grade est haut, plus le joueur est haut dans la hiérarchie.
+#========================================
+# Mode de déclenchement :
+#     Event
 #
-# Type d'activation : event
-# Activateur(s) :
-# "commun:grades/refresh"
-# "commun:grades/protection/correction"
-# "commun:connexion/ancien_joueur/trigger"
+# Déclencheurs :
+#     commun:grades/refresh
+#     commun:grades/protection/correction
+#     commun:connexion/ancien_joueur/trigger
+#
+# Fonction du fichier :
+#     Attribution des grades aux joueurs.
+#     Plus le score commun_Grade est haut, plus le joueur est haut dans la hiérarchie.
 #
 # Tags utilisés :
-#
-# ==================================================================================================
+#     ----
+#========================================
+
+
 
 # Staff
 team join aFondateur @s[scores={commun_Grade=15}]

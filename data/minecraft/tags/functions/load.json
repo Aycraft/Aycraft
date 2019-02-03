@@ -1,5 +1,9 @@
 {
+    "replace": true,
     "values": [
-        "commun:load"
+          "commun:load",
+          "commun:scores",
+          "spawn:load",
+          "spawn:scores"
     ]
 }
