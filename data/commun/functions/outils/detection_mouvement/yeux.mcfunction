@@ -1,12 +1,18 @@
-# ==================================================================================================
-# Cette fonction sert à detecter les mouvements des yeux des joueurs.
+#========================================
+# Mode de déclenchement :
+#     Event
 #
-# Type d'activation : events
-# Activateur(s) : non définit
+# Déclencheur(s) :
+#     commun:outils/detection_mouvement/refresh
 #
-# Tag(s) utilisé(s) :
+# Fonction du fichier :
+#     Cette fonction sert à detecter les mouvements des yeux des joueurs.
 #
-# ==================================================================================================
+# Tags utilisés :
+#     ----
+#========================================
+
+
 
 # Réinitialisation du score de detection des mouvements basiques
 scoreboard players set @s communEyeMoved 0

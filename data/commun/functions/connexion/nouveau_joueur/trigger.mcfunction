@@ -1,13 +1,13 @@
 #========================================
 # Mode de déclenchement :
     # Event
- 
+
 # Déclencheurs :
     # commun:connexion/nouveau_joueur/detection
- 
+
 # Fonction du fichier :
     # Execute ce qu'il faut lors de la connexion d'un nouveau joueur.
- 
+
 # Tags utilisés :
     # ----
 #========================================
@@ -15,20 +15,13 @@
 
 
 # Set de l'UUID
-
 function commun:outils/uuid/attribution
 
-
-
 # Attribution du grade
-
 scoreboard players set @s commun_Grade 0
 team join pNouveau
 
-
-
 # Messages de bienvenue et d'information
-
 tellraw @a [{"text":"[","color":"gray"},{"text":"+","color":"green"},{"text":"] ","color":"gray"},{"selector":"@s"}]
 
 team leave @s

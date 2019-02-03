@@ -1,3 +1,16 @@
+#========================================
+# Mode de déclenchement :
+#     Event
+#
+# Déclencheurs :
+#     commun:load
+#
+# Fonction du fichier :
+#     Crée tous les scores nécessaires au fonctionnement commun
+#
+# Tags utilisés :
+#     ----
+#========================================
 
 
 

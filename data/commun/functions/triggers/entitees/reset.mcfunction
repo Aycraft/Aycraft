@@ -1,18 +1,18 @@
 #========================================
 # Mode de déclenchement :
-    # Event
- 
+#     Event
+#
 # Déclencheurs :
-    # commun:triggers/entitees/detect
- 
+#     commun:triggers/entitees/detect
+#
 # Fonction du fichier :
-    # Remet les scores triggers (entitees) à 0
- 
+#     Remet les scores triggers (entitees) à 0
+#
 # Tags utilisés :
-    # ----
+#     ----
 #========================================
 
 
 
-# A parlé à un villageois
+# À parlé à un villageois
 scoreboard players set @s communT_TalkVill -1

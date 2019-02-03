@@ -1,3 +1,16 @@
+#========================================
+# Mode de déclenchement :
+#     Load
+#
+# Déclencheurs :
+#     ----
+#
+# Fonction du fichier :
+#     ----
+#
+# Tags utilisés :
+#     ----
+#========================================
 
 
 

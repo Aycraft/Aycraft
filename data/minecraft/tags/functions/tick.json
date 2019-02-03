@@ -1,7 +1,7 @@
 {
     "replace": true,
     "values": [
-        "commun:tick",
-		"spawn:tick"
+          "commun:tick",
+          "spawn:tick"
     ]
 }

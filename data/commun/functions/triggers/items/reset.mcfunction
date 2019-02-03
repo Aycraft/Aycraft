@@ -1,15 +1,15 @@
 #========================================
 # Mode de déclenchement :
-    # Event
- 
+#     Event
+#
 # Déclencheurs :
-    # commun:triggers/items/detect
- 
+#     commun:triggers/items/detect
+#
 # Fonction du fichier :
-    # Remet les scores triggers (items) à 0
- 
+#     Remet les scores triggers (items) à 0
+#
 # Tags utilisés :
-    # ----
+#     ----
 #========================================
 
 
@@ -19,4 +19,3 @@ scoreboard players set @s communT_CarrotSk -1
 
 # Perle de l'ender
 scoreboard players set @s communT_EndPearl -1
-

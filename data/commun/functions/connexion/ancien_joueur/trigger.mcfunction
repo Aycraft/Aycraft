@@ -1,12 +1,16 @@
-# ==================================================================================================
-# Cette fonction execute ce qu'il faut à la connexion de l'ancien joueur.
+#========================================
+# Mode de déclenchement :
+#     Event
 #
-# Mode de déclenchement : event
-# Déclencheur(s) : "commun:connexion/ancien_joueur/verification"
+# Déclencheurs :
+#     commun:connexion/ancien_joueur/detection
+#
+# Fonction du fichier :
+#     Execute ce qu'il faut à la connexion de l'ancien joueur
 #
 # Tags utilisés :
-#
-# ==================================================================================================
+#     ----
+#========================================
 
 
 

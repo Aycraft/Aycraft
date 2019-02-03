@@ -1,12 +1,19 @@
-# ==================================================================================================
-# Cette fonction sert à detecter les mouvements basiques des joueurs.
+#========================================
+# Mode de déclenchement :
+#     Event
 #
-# Type d'activation : events
-# Activateur(s) : "commun:outils/detection_mouvement", "commun:outils/invulnerabilite"
+# Déclencheurs :
+#     commun:outils/detection_mouvement
+#     commun:outils/invicibilite
 #
-# Tag(s) utilisé(s) :
+# Fonction du fichier :
+#     Cette fonction sert à detecter les mouvements basiques des joueurs.
 #
-# ==================================================================================================
+# Tags utilisés :
+#     ----
+#========================================
+
+
 
 # Detection des mouvements (Minecraft bug un peu, ça vient de Mojang)
 execute store result score @s minecraftMoveX run data get entity @s Motion[0] 100

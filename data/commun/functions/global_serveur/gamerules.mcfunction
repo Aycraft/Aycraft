@@ -1,19 +1,20 @@
 #========================================
 # Mode de déclenchement :
-    # Load
- 
+#     Load
+#
 # Déclencheurs :
-    # commun:load
- 
+#     commun:load
+#
 # Fonction du fichier :
-    # Initialise les gamerules et le worldspawn aux bonnes valeurs
- 
+#     Initialise les gamerules et le worldspawn aux bonnes valeurs
+#
 # Tags utilisés :
-    # ----
+#     ----
 #========================================
 
 
 
+# Définition des gamerules
 gamerule announceAdvancements false
 gamerule commandBlockOutput false
 gamerule disableElytraMovementCheck false
@@ -26,7 +27,7 @@ gamerule doMobSpawning false
 gamerule doTileDrops true
 gamerule doWeatherCycle false
 gamerule keepInventory false
-gamerule logAdminCommands false
+gamerule logAdminCommands true
 gamerule maxCommandChainLength 1000000
 gamerule maxEntityCramming 25
 gamerule mobGriefing false
@@ -38,9 +39,11 @@ gamerule showDeathMessages false
 gamerule spawnRadius 0
 gamerule spectatorsGenerateChunks false
 
+# Définition d'autres règles diverses
 setworldspawn 0 100 0
 defaultgamemode adventure
 worldborder center 0 0
 worldborder set 60000000
 
+# Régulation des datapacks en vigueur
 datapack disable vanilla

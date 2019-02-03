@@ -1,15 +1,15 @@
 #========================================
 # Mode de déclenchement :
-    # Tick
- 
+#     Tick
+#
 # Déclencheurs :
-    # commun:tick
- 
+#     commun:tick
+#
 # Fonction du fichier :
-    # Défini des triggers (items) communs de tels sortes qu'on est juste à détecter le score communT_xxxx vaut 1
- 
+#     Défini des triggers (items) communs de tels sortes qu'on est juste à détecter le score communT_xxxx vaut 1
+#
 # Tags utilisés :
-    # ----
+#     ----
 #========================================
 
 

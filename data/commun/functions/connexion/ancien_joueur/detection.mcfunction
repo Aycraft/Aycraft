@@ -1,12 +1,16 @@
-# ==================================================================================================
-# Cette fonction détermine si un ancien joueur vient de se reconnecter et agit en conséquence.
+#========================================
+# Mode de déclenchement :
+#     Tick
 #
-# Mode de déclenchement : tick
-# Déclencheur(s) : "commun:boucle"
+# Déclencheurs :
+#     commun:tick
+#
+# Fonction du fichier :
+#    Détermine si un ancien joueur vient de se reconnecter et agit en conséquence.
 #
 # Tags utilisés :
-#
-# ==================================================================================================
+#    ----
+#========================================
 
 
 

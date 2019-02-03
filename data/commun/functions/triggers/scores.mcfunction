@@ -1,15 +1,15 @@
 #========================================
 # Mode de déclenchement :
-    # Event
- 
+#     Event
+#
 # Déclencheurs :
-    # commun:initialisation
- 
+#     commun:initialisation
+#
 # Fonction du fichier :
-    # Initialise tous les scores relatifs aux triggers
- 
+#     Initialise tous les scores relatifs aux triggers
+#
 # Tags utilisés :
-    # ----
+#     ----
 #========================================
 
 
@@ -25,4 +25,3 @@ scoreboard objectives add communT_EndPearl minecraft.used:minecraft.ender_pearl
 
 # communT_TalkVill : Trigger pour le fait de parler avec un villageois
 scoreboard objectives add communT_TalkVill minecraft.custom:minecraft.talked_to_villager
-
