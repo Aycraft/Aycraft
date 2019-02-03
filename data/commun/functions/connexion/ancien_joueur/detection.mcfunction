@@ -1,16 +1,12 @@
-#========================================
-# Mode de déclenchement :
-    # Tick
- 
-# Déclencheurs :
-    # commun:tick
- 
-# Fonction du fichier :
-    # Détermine si un ancien joueur vient de se reconnecter et agit en conséquence.
- 
+# ==================================================================================================
+# Cette fonction détermine si un ancien joueur vient de se reconnecter et agit en conséquence.
+#
+# Mode de déclenchement : tick
+# Déclencheur(s) : "commun:boucle"
+#
 # Tags utilisés :
-    # ----
-#========================================
+#
+# ==================================================================================================
 
 
 
