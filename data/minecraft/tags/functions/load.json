@@ -3,6 +3,5 @@
     "values": [
           "commun:load",
           "spawn:load",
-          "spawn:scores"
     ]
 }

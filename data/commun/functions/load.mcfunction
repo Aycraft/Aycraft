@@ -3,7 +3,7 @@
 #     Load
 #
 # Déclencheurs :
-#     #minecraft:tick
+#     #minecraft:load
 #
 # Fonction du fichier :
 #     ----

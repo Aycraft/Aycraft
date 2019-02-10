@@ -14,7 +14,7 @@
 
 
 
-# Création du score de vérification (ne peut pas être autre part car sinon disfonctionel [C'est la seule exeption])
+# vérification d'initialisation
 scoreboard players set communLoadVerif communLoadVerif 1
 
 # communT_xxxxxx : Support des triggers (T)
