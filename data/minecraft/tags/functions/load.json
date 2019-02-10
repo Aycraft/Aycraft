@@ -2,7 +2,6 @@
     "replace": true,
     "values": [
           "commun:load",
-          "commun:scores",
           "spawn:load",
           "spawn:scores"
     ]

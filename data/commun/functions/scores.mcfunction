@@ -14,13 +14,14 @@
 
 
 
+# Création du score de vérification (ne peut pas être autre part car sinon disfonctionel [C'est la seule exeption])
+scoreboard players set communLoadVerif communLoadVerif 1
+
 # communT_xxxxxx : Support des triggers (T)
 function commun:triggers/scores
 
-
 # communS_xxxxxx : Support des stats du joueur (S)
 function commun:stats/scores
-
 
 # commun_Grade : Support des grades
 scoreboard objectives add commun_Grade dummy
@@ -36,11 +37,6 @@ scoreboard objectives add commun_UUID dummy
 
 # commun_TempsVecu : Compte le temps écoulé depuis la mort des joueurs
 scoreboard objectives add commun_TempsVecu minecraft.custom:minecraft.time_since_death
-
-
-
-
-
 
 # commun_Mouvement : Support de l'information de si le joueur est actuellement en train de faire un déplacement quelconque
 scoreboard objectives add commun_Mouvement dummy

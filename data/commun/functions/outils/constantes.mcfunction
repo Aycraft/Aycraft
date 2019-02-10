@@ -15,6 +15,9 @@
 
 
 
+# Vérification d'initialisation
+scoreboard players set communLoadVerif communLoadVerif 1
+
 # Création des constantes
 scoreboard players set 0 commun_Constante 0
 scoreboard players set 1 commun_Constante 1
