@@ -14,6 +14,9 @@
 
 
 
+# Vérification d'initialisation
+scoreboard players set communLoadVerif communLoadVerif 1
+
 # Définition des gamerules
 gamerule announceAdvancements false
 gamerule commandBlockOutput false
