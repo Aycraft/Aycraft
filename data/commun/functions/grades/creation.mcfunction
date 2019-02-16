@@ -14,8 +14,8 @@
 
 
 
-# Création du score de vérification (ne peut pas être autre part car sinon disfonctionel [C'est la seule exeption])
-scoreboard players set communLoadVerif communLoadVerif 1
+# Vérification d'initialisation
+scoreboard players set commun_LoadVerif commun_LoadVerif 1
 
 # Staff
 #     Fondateur
