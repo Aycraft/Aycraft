@@ -15,7 +15,7 @@
 
 
 # Vérification d'initialisation
-scoreboard players set commun_LoadVerif communLoadVerif 1
+scoreboard players set commun_LoadVerif commun_LoadVerif 1
 
 # Définition des gamerules
 gamerule announceAdvancements false
