@@ -1,8 +1,9 @@
-# Titre
+# Aycraft version [Définir ainsi que ci-dessous]
 Merci de nommer vos "pull requests" `Mise à jour` + `année`, `semaine`, `numero de la mise à jour de la semaine`.
+(ex : **[`Mise à jour 19w07a`](https://github.com/Aycraft/Aycraft/pull/10)**)
 
-(ex : `Mise à jour` + `2019`, `semaine n°5`, `seconde mise à jour de la semaine` = **`Mise à jour 19w05b`**)
+## Modifications apportées
+Précisez les ajouts/modifications (prefix : `+`) ainsi que les retrait (prefix `-`).
 
-# Informations
-Précisez les ajouts (prefix : `+`) ainsi que les retrait (prefix `-`).
-Et voilà, c'est aussi simple que ça 😉😁
+## Bugs corrigés
+Précisez les bugs corrigés totalement (prefix : `-`), ou partiellement (prefix : `*`)
