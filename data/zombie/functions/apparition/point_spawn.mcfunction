@@ -1,9 +1,9 @@
 #========================================
 # Mode de déclenchement :
-#     Tick
+#     Event
 #
 # Déclencheurs :
-#     #minecraft:tick
+#     minecraft:load
 #
 # Fonction du fichier :
 #     ----
@@ -11,7 +11,3 @@
 # Tags utilisés :
 #     ----
 #========================================
-
-
-# PV
-execute as @e[type=!player,nbt={HurtTime:9s}] run function zombie:nom/pourcentage_pv
