@@ -1,7 +1,6 @@
 {
     "replace": true,
     "values": [
-          "commun:load",
-          "spawn:load"
+          "minecraft:load"
     ]
 }

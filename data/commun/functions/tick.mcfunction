@@ -3,7 +3,7 @@
 #     Tick
 #
 # Déclencheurs :
-#     ----
+#     #minecraft:tick
 #
 # Fonction du fichier :
 #     ----

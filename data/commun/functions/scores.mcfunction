@@ -15,7 +15,7 @@
 
 
 # vérification d'initialisation
-scoreboard players set commun_LoadVerif commun_LoadVerif 1
+scoreboard players set commun load_verif 1
 
 # communT_xxxxxx : Support des triggers (T)
 function commun:triggers/scores
