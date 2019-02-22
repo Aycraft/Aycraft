@@ -1,6 +1,7 @@
 {
     "replace": true,
     "values": [
+          "commande:tick",
           "commun:tick",
           "spawn:tick",
           "zombie:tick"

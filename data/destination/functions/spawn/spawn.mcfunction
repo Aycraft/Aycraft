@@ -3,7 +3,7 @@
 #     Event
 #
 # Déclencheurs :
-#     ----
+#     commande:general/spawn
 #
 # Fonction du fichier :
 #     Ce fichier sert à téléporter son executeur au spawn
@@ -14,9 +14,8 @@
 
 
 
-# Protection
-function commun:outils/invincibilite
-effect give @s minecraft:protection 1 255 true
+# Paramêtres
+function destination:parametres
 
 # Téléportation
 tp @s 0 1 0
@@ -25,4 +24,4 @@ tp @s 0 1 0
 # playsound ...
 
 # Message
-tellraw @s ["",{"text":"§7§lServeur »§r "},{"Vous avez été téléporté(e) au spawn","color":"green"}]
+tellraw @s[x=0,y=1,z=0,distance=100..] ["",{"text":"§7§lServeur »§r "},{"text":"Vous avez été téléporté(e) au spawn","color":"green"}]

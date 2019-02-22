@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commande:tick
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Ce fichier detecte les demandes de téléportation au spawn
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

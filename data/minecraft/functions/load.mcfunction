@@ -16,6 +16,12 @@
 scoreboard objectives add load_verif dummy
 tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Rechargement du serveur, cela peut causer du lag...","color":"green"}]
 
+# Load des commandes
+tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Chargement des commandes...","color":"green"}]
+scoreboard players set commande load_verif 0
+function commande:load
+execute if score commande load_verif matches 0 run tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Échec de l'initialisation des commandes","color":"red"}]
+
 # Load du fichier commun
 tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Chargement du commun...","color":"green"}]
 scoreboard players set commun load_verif 0

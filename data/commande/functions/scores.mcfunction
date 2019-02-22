@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commande:load
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Crée tous les scores nécessaires au fonctionnement des commandes
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

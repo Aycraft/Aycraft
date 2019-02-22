@@ -1,3 +1,16 @@
+#========================================
+# Mode(s) de déclenchement(s) :
+#     Load
+#
+# Déclencheur(s) :
+#     spawn:load
+#
+# Fonction(s) du fichier :
+#     Crée tous les scores nécessaires au fonctionnement du spawn
+#
+# Tag(s) utilisé(s) :
+#     ----
+#========================================
 
 
 
