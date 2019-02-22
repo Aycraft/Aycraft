@@ -14,4 +14,4 @@
 
 
 # PV
-execute as @e[type=!player,nbt={HurtTime:9s}] run function zombie:nom/pourcentage_pv
+execute as @e[type=!player,nbt={HurtTime:9s}] run function zombie:mode_vague/nom/pourcentage_pv
