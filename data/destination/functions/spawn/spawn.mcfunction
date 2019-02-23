@@ -18,10 +18,10 @@
 function destination:parametres
 
 # Téléportation
-tp @s 0 1 0
+tp @s 0 1 0 0 0
 
 # Son
 # playsound ...
 
 # Message
-tellraw @s[x=0,y=1,z=0,distance=100..] ["",{"text":"§7§lServeur »§r "},{"text":"Vous avez été téléporté(e) au spawn","color":"green"}]
+tellraw @s ["",{"text":"§7§lServeur §8»§r "},{"text":"Vous avez été téléporté(e) au spawn","color":"green"}]

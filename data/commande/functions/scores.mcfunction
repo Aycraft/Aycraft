@@ -23,6 +23,9 @@ scoreboard objectives add commande_spawn dummy
 # commande_spawn5s : score qui permet de detecter les "5 secondes"
 scoreboard objectives add commande_spawn5s dummy
 
+# commande_spawn20 : score qui permet de detecter les "20 secondes"
+scoreboard objectives add commande_spawn20 dummy
+
 # commande_spawnTr : score qui permet d'annoncer les "5 secondes" dans un tellraw
 scoreboard objectives add commande_spawnTr dummy
 

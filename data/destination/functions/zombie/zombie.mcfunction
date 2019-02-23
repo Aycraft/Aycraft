@@ -25,4 +25,4 @@ tp @s 0 1 0
 # playsound ...
 
 # Message
-tellraw @s [{"text":"§7§lServeur »§r "},{"Vous avez été téléporté(e) au zombie","color":"green"}]
+tellraw @s [{"text":"§7§lServeur §8»§r "},{"text":"Vous avez été téléporté(e) au zombie","color":"green"}]
