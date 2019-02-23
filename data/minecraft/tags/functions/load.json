@@ -1,6 +1,4 @@
 {
     "replace": true,
-    "values": [
-          "minecraft:load"
-    ]
+    "values": ["minecraft:load"]
 }
