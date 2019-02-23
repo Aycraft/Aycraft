@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Tick
 #
-# Déclencheurs :
+# Déclancheur(s) :
 #     spawn:tick
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Sécurise les joueurs au spawn
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================*
 

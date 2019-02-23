@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commun:triggers/entitees/detect
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Remet les scores triggers (entitees) à 0
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

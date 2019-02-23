@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement :
 #     Event
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commun:connexion/nouveau_joueur/trigger
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Attribue un UUID fixe au joueur appelé par cette fonction
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

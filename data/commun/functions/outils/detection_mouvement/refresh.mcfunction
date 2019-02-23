@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Tick
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     ----
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Cette fonction sert à détecter l'activité basiques des joueurs
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

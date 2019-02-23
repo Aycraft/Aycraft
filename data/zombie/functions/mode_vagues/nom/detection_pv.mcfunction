@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     ----
 #
-# Déclencheurs :
+# Déclancheur(s) :
 #     ----
 #
-# Fonction du fichier :
-#     ----
+# Fonction(s) du fichier :
+#     Permet au monstres qui subissent des dégats (n'importe quel type, d'où le "nbt={HurtTime:9s}") de calculer leur pourcentage de PV
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

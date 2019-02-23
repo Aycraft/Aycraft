@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Load
 #
-# Déclencheurs :
+# Déclancheur(s) :
 #     minecraft:load
 #
-# Fonction du fichier :
-#     ----
+# Fonction(s) du fichier :
+#     Charge toutes les fonctions nécessaires au foncitonnement du spawn
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

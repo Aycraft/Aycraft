@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     ----
 #
-# Déclencheurs :
+# Déclancheur(s) :
 #     ----
 #
-# Fonction du fichier :
-#     ----
+# Fonction(s) du fichier :
+#     Permet de montrer une barre de vie des monstres
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

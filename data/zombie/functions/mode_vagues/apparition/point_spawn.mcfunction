@@ -1,13 +1,13 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclancheur(s) :
 #     ----
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Cette fonction gêre le(s) point(s) d'appartition de(s) zombie(s)
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================

@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclancheur(s) :
 #     zombie:load
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Crée tous les scores nécessaires au fonctionnement du zombie
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

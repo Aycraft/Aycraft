@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Load
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commun:load
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Création de tous les grades
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

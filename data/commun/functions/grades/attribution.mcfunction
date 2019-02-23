@@ -1,17 +1,17 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commun:grades/refresh
 #     commun:grades/protection/correction
 #     commun:connexion/ancien_joueur/trigger
 #
-# Fonction du fichier :
+# Fonction(s) du fichier(s) :
 #     Attribution des grades aux joueurs.
 #     Plus le score commun_Grade est haut, plus le joueur est haut dans la hiérarchie.
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

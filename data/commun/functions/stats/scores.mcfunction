@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commun:load
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Initialise tous les scores relatifs aux stats du joueur
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

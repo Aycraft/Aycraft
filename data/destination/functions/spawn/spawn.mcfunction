@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclancheur(s) :
 #     commande:general/spawn
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Ce fichier sert à téléporter son executeur au spawn
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

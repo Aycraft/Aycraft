@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Load
 #
-# Déclencheurs :
+# Déclancheur(s) :
 #     minecraft:load
 #
-# Fonction du fichier :
-#     ----
+# Fonction(s) du fichier :
+#     Charge l'ensemble des fonctions nécessaires au fontionnement commun
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Load
 #
-# Déclencheurs :
+# Déclancheur(s) :
 #     #minecraft:load
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Cette fonction regroupe toutes les fonctions de load pour optimiser les verifications.
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

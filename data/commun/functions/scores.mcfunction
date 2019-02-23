@@ -1,21 +1,18 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclancheur(s) :
 #     commun:load
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Crée tous les scores nécessaires au fonctionnement commun
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 
 
-
-# vérification d'initialisation
-scoreboard players set commun load_verif 1
 
 # communT_xxxxxx : Support des triggers (T)
 function commun:triggers/scores
@@ -40,3 +37,6 @@ scoreboard objectives add commun_TempsVecu minecraft.custom:minecraft.time_since
 
 # commun_Mouvement : Support de l'information de si le joueur est actuellement en train de faire un déplacement quelconque
 scoreboard objectives add commun_Mouvement dummy
+
+# vérification d'initialisation
+scoreboard players set commun load_verif 1

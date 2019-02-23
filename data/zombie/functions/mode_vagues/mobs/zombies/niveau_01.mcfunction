@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclancheur(s) :
 #     ----
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Sert à faire apparaître un zombie de niveau 1
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

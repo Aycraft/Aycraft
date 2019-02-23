@@ -1,15 +1,15 @@
 #========================================
-# Mode de déclenchement :
-    # Event
+# Mode(s) de déclenchement(s) :
+#   Event
 
-# Déclencheurs :
-    # commun:connexion/nouveau_joueur/detection
+# Déclencheur(s) :
+#   commun:connexion/nouveau_joueur/detection
 
-# Fonction du fichier :
-    # Execute ce qu'il faut lors de la connexion d'un nouveau joueur.
+# Fonction(s) du fichier :
+#   Execute ce qu'il faut lors de la connexion d'un nouveau joueur.
 
-# Tags utilisés :
-    # ----
+# Tag(s) utilisé(s) :
+#   ----
 #========================================
 
 
