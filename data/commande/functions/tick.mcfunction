@@ -1,6 +1,6 @@
 #========================================
 # Mode(s) de déclenchement(s) :
-#     Event
+#     Tick
 #
 # Déclencheur(s) :
 #     #minecraft:tick
@@ -16,6 +16,7 @@
 
 # Commandes générales
 #   Spawn
+scoreboard players enable @a commande_trigger
 execute as @a if score @s commande_trigger matches 1 run function commande:general/spawn
 execute as @a if score @s commande_spawn matches 0.. run function commande:general/spawn
 
