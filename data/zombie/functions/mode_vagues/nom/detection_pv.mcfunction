@@ -1,9 +1,9 @@
 #========================================
 # Mode de déclenchement :
-#     Tick
+#     ----
 #
 # Déclencheurs :
-#     #minecraft:tick
+#     ----
 #
 # Fonction du fichier :
 #     ----
@@ -13,5 +13,6 @@
 #========================================
 
 
-# PV
-execute as @e[type=!player,nbt={HurtTime:9s}] run function zombie:mode_vague/nom/pourcentage_pv
+
+# Detection des points de vie des mobs
+execute as @e[nbt={HurtTime:9s},type=!player] run function zombie:mode_vague/nom/pourcentage_pv

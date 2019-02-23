@@ -1,17 +1,13 @@
 #========================================
 # Mode de déclenchement :
-#     Tick
+#     Event
 #
 # Déclencheurs :
-#     #minecraft:tick
+#     ----
 #
 # Fonction du fichier :
-#     ----
+#     Cette fonction gêre le(s) point(s) d'appartition de(s) zombie(s)
 #
 # Tags utilisés :
 #     ----
 #========================================
-
-
-# PV
-execute as @e[type=!player,nbt={HurtTime:9s}] run function zombie:mode_vague/nom/pourcentage_pv

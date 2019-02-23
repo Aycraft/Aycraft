@@ -1,9 +1,9 @@
 #========================================
 # Mode de déclenchement :
-#     Tick
+#     ----
 #
 # Déclencheurs :
-#     #minecraft:tick
+#     ----
 #
 # Fonction du fichier :
 #     ----
@@ -13,5 +13,7 @@
 #========================================
 
 
-# PV
-execute as @e[type=!player,nbt={HurtTime:9s}] run function zombie:mode_vague/nom/pourcentage_pv
+
+# Sauvegarde du nombre de points de vie maximum
+execute store result score @s zombie_mobs_pv_M run data get entity @s Health
+effect clear @s resistance
