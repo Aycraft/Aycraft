@@ -2,7 +2,7 @@
 # Mode(s) de déclenchement(s) :
 #   Event
 #
-# Déclancheur(s) :
+# Déclencheur(s) :
 #   zombie:mode_vagues/kit/aycoin/blaze
 #   zombie:mode_vagues/kit/gratuit/steve
 #   zombie:mode_vagues/kit/gratuit/alex
