@@ -2,7 +2,7 @@
 # Mode(s) de déclenchement(s) :
 #     ----
 #
-# Déclancheur(s) :
+# Déclencheur(s) :
 #     ----
 #
 # Fonction(s) du fichier :

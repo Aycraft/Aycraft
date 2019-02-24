@@ -2,7 +2,7 @@
 # Mode(s) de déclenchement(s) :
 #     ----
 #
-# Déclancheur(s) :
+# Déclencheur(s) :
 #     ----
 #
 # Fonction(s) du fichier :
@@ -15,5 +15,5 @@
 
 
 # Sauvegarde du nombre de points de vie maximum
-execute store result score @s zombie_mobs_pv_M run data get entity @s Health
+execute store result score @s zombie_mobs_pv_m run data get entity @s Health
 effect clear @s resistance

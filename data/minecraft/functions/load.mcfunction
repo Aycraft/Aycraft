@@ -2,7 +2,7 @@
 # Mode(s) de déclenchement(s) :
 #     Load
 #
-# Déclancheur(s) :
+# Déclencheur(s) :
 #     #minecraft:load
 #
 # Fonction(s) du fichier :

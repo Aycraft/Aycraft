@@ -2,7 +2,7 @@
 # Mode(s) de déclenchement(s) :
 #     Tick
 #
-# Déclancheur(s) :
+# Déclencheur(s) :
 #     #minecraft:tick
 #
 # Fonction(s) du fichier :

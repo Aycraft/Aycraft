@@ -2,7 +2,7 @@
 # Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclancheur(s) :
+# Déclencheur(s) :
 #     commun:initialisation
 #
 # Fonction(s) du fichier :

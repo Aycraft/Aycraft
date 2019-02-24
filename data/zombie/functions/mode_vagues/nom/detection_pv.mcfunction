@@ -2,7 +2,7 @@
 # Mode(s) de déclenchement(s) :
 #     ----
 #
-# Déclancheur(s) :
+# Déclencheur(s) :
 #     ----
 #
 # Fonction(s) du fichier :
@@ -15,4 +15,4 @@
 
 
 # Detection des points de vie des mobs
-execute as @e[nbt={HurtTime:9s},type=!player] run function zombie:mode_vague/nom/pourcentage_pv
+execute as @e[nbt={HurtTime:9s},type=!player] run function zombie:mode_vagues/nom/pourcentage_pv
