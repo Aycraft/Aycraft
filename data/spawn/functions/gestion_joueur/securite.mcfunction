@@ -2,7 +2,7 @@
 # Mode(s) de déclenchement(s) :
 #     Tick
 #
-# Déclancheur(s) :
+# Déclencheur(s) :
 #     spawn:tick
 #
 # Fonction(s) du fichier :

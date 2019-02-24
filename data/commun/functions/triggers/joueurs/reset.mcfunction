@@ -2,7 +2,7 @@
 # Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclancheur(s) :
+# Déclencheur(s) :
 #     commun:triggers/joueurs/detect
 #
 # Fonction(s) du fichier :
