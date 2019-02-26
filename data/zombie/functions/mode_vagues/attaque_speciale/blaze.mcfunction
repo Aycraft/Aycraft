@@ -24,5 +24,6 @@ execute unless score @s zombie_attak_spe >= @s zombie_attak_del run scoreboard p
 execute if score @s zombie_attak_spe >= @s zombie_attak_del at @s run tag @e[type=!player,limit=5,distance=..15,sort=nearest] add zombie_kit_special_attack_blaze
 execute if score @s zombie_attak_spe >= @s zombie_attak_del at @s run tag @e[type=!player,distance=..1.5] add zombie_kit_special_attack_blaze
 execute if score @s zombie_attak_spe >= @s zombie_attak_del as @e[type=!player,tag=zombie_kit_special_attack_blaze] run data merge entity @s {Fire:32767s}
+execute if score @s zombie_attak_spe >= @s zombie_attak_del at @e[type=!player,tag=zombie_kit_special_attack_blaze] run particle minecraft:flame ~ ~.75 ~ 0.2 .5 0.2 0.2 150
 execute if score @s zombie_attak_spe >= @s zombie_attak_del run scoreboard players reset @s zombie_attak_spe
 tag @e remove zombie_kit_special_attack_blaze
