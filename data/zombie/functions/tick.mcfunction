@@ -18,3 +18,4 @@ execute as @e[type=!player,nbt={HurtTime:9s}] run function zombie:mode_vagues/no
 
 # Execution des attaques spéciales
 execute as @a if score @s zombie_kit matches 3 run function zombie:mode_vagues/attaque_speciale/blaze
+execute as @a if score @s zombie_kit matches 4 run function zombie:mode_vagues/attaque_speciale/electromancer
