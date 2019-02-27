@@ -1,15 +1,15 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commun:grades/protection/verification
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Remet aux joueurs le score commun_Grade qu'ils devraient avoir
 #     Remet aux joueurs le grade qu'ils devraient avoir si besoin
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     commun_PasBesoinGrade
 #     commun_EstJoueurRandom
 #========================================

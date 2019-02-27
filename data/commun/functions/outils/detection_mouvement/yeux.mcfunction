@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
 # Déclencheur(s) :
 #     commun:outils/detection_mouvement/refresh
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Cette fonction sert à detecter les mouvements des yeux des joueurs.
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

@@ -8,7 +8,7 @@
 # Fonction(s) du fichier :
 #     Ce fichier gêre les requêtes de l'ensemble des commandes
 #
-# Tags utilisé(s) :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

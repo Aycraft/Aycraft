@@ -1,15 +1,15 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commun:outils/detection_mouvement
 #     commun:outils/invicibilite
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Cette fonction sert à detecter les mouvements basiques des joueurs.
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

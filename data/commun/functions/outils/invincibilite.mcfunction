@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     spawn:gestion_joueurs/securite
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Assure la protection totale aux joueurs qui appellent la fonction.
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

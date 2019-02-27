@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commun:connexion/ancien_joueur/detection
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Execute ce qu'il faut à la connexion de l'ancien joueur
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

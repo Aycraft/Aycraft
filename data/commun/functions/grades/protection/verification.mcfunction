@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Tick
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commun:tick
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Déterminer si les joueurs ont bien la valeur du score commun_Grade qu'ils devraient avoir
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     commun_EstJoueurRandom
 #     commun_PasBesoinGrade
 #========================================

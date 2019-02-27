@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Event
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commun:connexion/nouveau_joueur/detection
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Passe le nouveau joueur en tant que joueur normal.
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

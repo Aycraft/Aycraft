@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Tick
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commun:tick
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #    Détermine si un ancien joueur vient de se reconnecter et agit en conséquence.
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #    ----
 #========================================
 

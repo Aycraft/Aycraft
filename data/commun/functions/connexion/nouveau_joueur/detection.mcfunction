@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Tick
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     commun:tick
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #     Détermine si un joueur se connecte pour la première fois sur le serveur.
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

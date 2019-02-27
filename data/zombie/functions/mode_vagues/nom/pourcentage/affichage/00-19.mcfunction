@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     ----
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     ----
 #
-# Fonction du fichier :
-#     ----
+# Fonction(s) du fichier :
+#     Gère la barre de vie des monstres ayant une vitalité comprise entre 0% et 19%
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 

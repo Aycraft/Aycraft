@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #	----
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #	----
 #
-# Fonction du fichier :
+# Fonction(s) du fichier :
 #	Détecte quand un joueur sort d'un mini jeu (et donc implicitement quitte la team associée) et lui remet sa team liée au grade
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #	----
 #========================================
 

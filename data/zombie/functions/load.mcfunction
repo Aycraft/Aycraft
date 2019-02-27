@@ -1,14 +1,14 @@
 #========================================
-# Mode de déclenchement :
+# Mode(s) de déclenchement(s) :
 #     Load
 #
-# Déclencheurs :
+# Déclencheur(s) :
 #     minecraft:load
 #
-# Fonction du fichier :
-#     ----
+# Fonction(s) du fichier :
+#     Charge tous les fichiers nécessaires au fonctionnement des jeux Zombie
 #
-# Tags utilisés :
+# Tag(s) utilisé(s) :
 #     ----
 #========================================
 
