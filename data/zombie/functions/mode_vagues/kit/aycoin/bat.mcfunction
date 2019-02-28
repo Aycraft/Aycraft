@@ -28,4 +28,4 @@ replaceitem entity @s hotbar.0 minecraft:wooden_sword{display:{Name:"{\"text\":\
 effect give @s night_vision 1000000 255 true
 
 # Attribution de l'Id du kit
-scoreboard players set @s zombie_kit 3
+scoreboard players set @s zombie_kit 6
