@@ -22,13 +22,13 @@ scoreboard players set @s commun_Grade 0
 team join pNouveau
 
 # Messages de bienvenue et d'information
-tellraw @a [{"text":"[","color":"gray"},{"text":"+","color":"green"},{"text":"] ","color":"gray"},{"selector":"@s"}]
+tellraw @s [{"text":"[","color":"gray"},{"text":"+","color":"green"},{"text":"] ","color":"gray"},{"selector":"@s"}]
 
 team leave @s
 
-tellraw @a [{"text":"C'est la première connexion de ","color":"green"},{"selector":"@s","color":"gold"},{"text":" sur Aycraft ! Bienvenue à toi !","color":"green"}]
-tellraw @s [{"text":"Tu peux naviguer sur le serveur facilement via un menu qui se trouve dans ton inventaire ! Presse "},{"keybind":"key.inventory"},{"text":" pour y accéder !"}]
-tellraw @s [{"text":"N'hésite pas à nous rejoindre sur ","color":"blue"},{"text":"le Discord","underlined":true,"color":"gold","clickEvent":{"action":"open_url","value":"https://discord.gg/vqRNfaC"}},{"text":" si ce n'est pas déjà fait !","color":"blue"}]
+tellraw @a ["",{"text":"§7§lServeur §8»"},{"text":"C'est la première connexion de ","color":"green"},{"selector":"@s","color":"gold"},{"text":" sur Aycraft ! Bienvenue à toi !","color":"green"}]
+tellraw @s ["",{"text":"§7§lServeur §8»"},{"text":"Tu peux naviguer sur le serveur facilement via un menu qui se trouve dans ton inventaire ! Presse "},{"keybind":"key.inventory"},{"text":" pour y accéder !"}]
+tellraw @s ["",{"text":"§7§lServeur §8»"},{"text":"N'hésite pas à nous rejoindre sur ","color":"blue"},{"text":"Discord","underlined":true,"color":"gold","clickEvent":{"action":"open_url","value":"https://discord.gg/vqRNfaC"}},{"text":", si ce n'est pas déjà fait !","color":"blue"}]
 
 team join pNouveau
 

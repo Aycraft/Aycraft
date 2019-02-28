@@ -14,7 +14,7 @@
 
 
 
-tellraw @a [{"text":"[","color":"gray"},{"text":"+","color":"green"},{"text":"] ","color":"gray"},{"selector":"@s"}]
+tellraw @s [{"text":"[","color":"gray"},{"text":"+","color":"green"},{"text":"] ","color":"gray"},{"selector":"@s"}]
 
 team leave @s
 
