@@ -35,11 +35,11 @@ Ce serveur Minecraft a une longue histoire ; il a ouvert pour la première fois 
 
 
 ## Auteurs
-- **Aygame** - Directeur en chef.
-- **Haugtolas** - Hébergeur.
-- **Fabaure** - Gestionaire.
-- **Mathaym** - Concepteur en chef.
-- **Vianpyro** - Rédacteur en chef.
+- [**Aygame**](https://github.com/aygame101) - Directeur de projet.
+- [**Haugtolas**]() - Hébergeur.
+- [**Fabaure**]() - Gestionaire.
+- [**Mathaym**](https://github.com/mathaym25) - Concepteur en chef.
+- [**Vianpyro**](https://github.com/Vianpyro) - Rédacteur en chef et développeur.
 
 * Allez voir la liste des membres du personnel, et aussi la liste des [contributeurs](https://github.com/Aycraft/Aycraft/wiki/Liste-des-contributeurs) qui ont participé à ce projet !
 
