@@ -3,7 +3,7 @@
 #     Event
 #
 # Déclencheur(s) :
-#     destination:spawn/spawn
+#     commun:destination/spawn/spawn
 #
 # Fonction(s) du fichier :
 #     Ce fichier sert à téléporter son executeur au spawn
@@ -16,7 +16,7 @@
 
 # Protection
 function commun:outils/invincibilite
-effect give @s minecraft:protection 1 255 true
+effect give @s minecraft:resistance 1 255 true
 
 # "Réinitialisation"
 team leave @s
@@ -24,4 +24,4 @@ effect clear @s[gamemode=!creative]
 
 # Gestion de l'inventaire
 clear @s[tag=!keepInventory]
-tag remove @s keepInventory
+tag @s remove keepInventory
