@@ -6,7 +6,7 @@
 #     commande:general/spawn
 #
 # Fonction(s) du fichier :
-#     Ce fichier sert à téléporter son executeur au spawn
+#     Ce fichier sert à téléporter son executeur au zombie
 #
 # Tag(s) utilisé(s) :
 #     ----
@@ -15,13 +15,14 @@
 
 
 # Paramêtres
-function destination:parametres
+function commun:destination/parametres
 
 # Téléportation
-tp @s 0 1 0 0 0
+spreadplayers 0 0 0 1 false @s
+tp @s 0 ~1 0 0 0
 
 # Son
 # playsound ...
 
 # Message
-tellraw @s ["",{"text":"§7§lServeur §8»§r "},{"text":"Vous avez été téléporté(e) au spawn","color":"green"}]
+tellraw @s ["",{"text":"§7§lServeur §8»§r "},{"text":"Vous avez été téléporté(e) au zombie","color":"green"}]

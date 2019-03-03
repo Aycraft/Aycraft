@@ -10,8 +10,8 @@ Ce serveur Minecraft a une longue histoire ; il a ouvert pour la première fois 
 
 
 ## Améliorez-le !
-* Vous voulez [rapporter un bug](https://github.com/Aycraft/Aycraft/issues)? Vérifiez d'abord qu'il n'a pas encore été déclaré, et s'il ne l'a pas encore été, allez-y et dites-nous-le !
-* ***Partagez-nous vos idées***, elles nous seront vraiment utiles !
+* Vous voulez [rapporter un bug](https://github.com/Aycraft/Aycraft/issues/new?assignees=Vianpyro%2C+mathaym25%2C+aygame101&labels=bug&template=rapport-de-bug.md&title=%5BBug%5D+)? Vérifiez d'abord qu'il n'a pas encore été déclaré, et s'il ne l'a pas encore été, allez-y et dites-nous-le !
+* [***Partagez-nous vos idées***](https://github.com/Aycraft/Aycraft/issues/new?assignees=Vianpyro%2C+mathaym25%2C+aygame101&labels=am%C3%A9lioration%2C+question&template=demande-de-fonctionnalit--s-.md&title=%5BId%C3%A9e%2FDemande%5D+), elles nous seront vraiment utiles !
 * Vous aimez le serveur et son potentiel, mais voulez le continuer à votre façon . Pas de problème ; mais mentionnez les concepteurs originaux s'il vous plaît !
 
 
