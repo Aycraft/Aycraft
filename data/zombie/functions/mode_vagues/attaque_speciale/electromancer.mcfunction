@@ -9,7 +9,7 @@
 #     Sert à faire donner la possibilité aux joueurs d'utiliser l'attaque spéciale de ce kit
 #
 # Tag(s) utilisé(s) :
-#     zombie_kit_special_attack_electromancer
+#     ----
 #========================================
 
 
