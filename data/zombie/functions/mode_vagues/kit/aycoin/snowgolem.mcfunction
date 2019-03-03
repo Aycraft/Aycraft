@@ -25,4 +25,4 @@ replaceitem entity @s armor.feet minecraft:leather_boots{display:{Name:"{\"text\
 replaceitem entity @s hotbar.0 minecraft:wooden_sword{display:{Name:"{\"text\":\"§rÉpée de Golem de neige\"}"},Unbreakable:1,Enchantments:[{id:"minecraft:binding_curse",lvl:1},{id:"minecraft:vanishing_curse",lvl:1}],HideFlags:63,AttributeModifiers:[{AttributeName:"generic.attackSpeed",Name:"generic.attackSpeed",Amount:20,Operation:0,UUIDMost:0,UUIDLeast:2}]} 1
 
 # Attribution de l'Id du kit
-scoreboard players set @s zombie_kit 4
+scoreboard players set @s zombie_kit 5
