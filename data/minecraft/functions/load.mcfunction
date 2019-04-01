@@ -18,26 +18,22 @@ tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Rechargement du serveur, ce
 
 # Load des commandes
 tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Chargement des commandes...","color":"green"}]
-scoreboard players set commande load_verif 0
-function commande:load
+execute store success score commande load_verif run function commande:load
 execute if score commande load_verif matches 0 run tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Échec de l'initialisation des commandes","color":"red"}]
 
 # Load du fichier commun
 tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Chargement du commun...","color":"green"}]
-scoreboard players set commun load_verif 0
-function commun:load
+execute store success score commun load_verif run function commun:load
 execute if score commun load_verif matches 0 run tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Échec de l'initialisation commune","color":"red"}]
 
 # Load du fichier du spawn
 tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Chargement du spawn...","color":"green"}]
-scoreboard players set spawn load_verif 0
-function spawn:load
+execute store success score spawn load_verif run function spawn:load
 execute if score spawn load_verif matches 0 run tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Échec de l'initialisation du spawn","color":"red"}]
 
 # Load du zombie
 tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Chargement du zombie...","color":"green"}]
-scoreboard players set zombie load_verif 0
-function zombie:load
+execute store success score zombie load_verif run function zombie:load
 execute if score zombie load_verif matches 0 run tellraw @a ["",{"text":"§7§lLoad §8» "},{"text":"Échec de l'initialisation du zombie","color":"red"}]
 
 # Supression du score de vérification (ne peut pas être autre part car sinon disfonctionel [C'est la seule exeption])
