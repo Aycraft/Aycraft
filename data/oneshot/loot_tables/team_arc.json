@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:chest",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+		  "name": "minecraft:stone",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{NumeroMap:2,ModeJeu:3,display:{Name:\"{\\\"text\\\":\\\"2 Solo Corps\\\"}\"}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

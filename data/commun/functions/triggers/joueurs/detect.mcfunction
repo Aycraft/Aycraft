@@ -1,15 +1,15 @@
 #========================================
-# Mode(s) de déclenchement(s) :
-#     Tick
-#
-# Déclencheur(s) :
-#     commun:tick
-#
-# Fonction(s) du fichier :
-#     Défini des triggers (joueurs) communs de tels sortes qu'on est juste à détecter le score communT_xxxx vaut 1
-#
-# Tag(s) utilisé(s) :
-#     ----
+# Mode de déclenchement :
+    # Tick
+ 
+# Déclencheurs :
+    # commun:tick
+ 
+# Fonction du fichier :
+    # Défini des triggers (joueurs) communs de tels sortes qu'on est juste à détecter le score communT_xxxx vaut 1
+ 
+# Tags utilisés :
+    # ----
 #========================================
 
 
@@ -17,3 +17,9 @@
 # Serveur quitté
 execute as @a unless score @s communT_QuitGame matches -1..0 run function commun:triggers/joueurs/reset
 execute as @a unless score @s communT_QuitGame matches -1 run scoreboard players add @s communT_QuitGame 1
+
+# Mouvement effectué
+execute as @a run function commun:triggers/joueurs/mouvement
+execute as @a unless score @s communT_Movement matches -1..0 run function commun:triggers/joueurs/reset
+execute as @a unless score @s communT_Movement matches -1 run scoreboard players add @s communT_Movement 1
+

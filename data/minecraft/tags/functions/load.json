@@ -1,4 +1,9 @@
 {
     "replace": true,
-    "values": ["minecraft:load"]
+    "values": [
+        "commun:load",
+        "commun:scores",
+		"spawn:load",
+        "spawn:scores"
+    ]
 }
