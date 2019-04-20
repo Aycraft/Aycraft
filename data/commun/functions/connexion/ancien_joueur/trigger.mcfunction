@@ -1,20 +1,20 @@
 #========================================
-# Mode(s) de déclenchement(s) :
-#     Event
-#
-# Déclencheur(s) :
-#     commun:connexion/ancien_joueur/detection
-#
-# Fonction(s) du fichier :
-#     Execute ce qu'il faut à la connexion de l'ancien joueur
-#
-# Tag(s) utilisé(s) :
-#     ----
+# Mode de déclenchement :
+    # Event
+ 
+# Déclencheurs :
+    # commun:connexion/ancien_joueur/detection
+ 
+# Fonction du fichier :
+    # Execute ce qu'il faut à la connexion de l'ancien joueur
+ 
+# Tags utilisés :
+    # ----
 #========================================
 
 
 
-tellraw @s [{"text":"[","color":"gray"},{"text":"+","color":"green"},{"text":"] ","color":"gray"},{"selector":"@s"}]
+tellraw @a [{"text":"[","color":"gray"},{"text":"+","color":"green"},{"text":"] ","color":"gray"},{"selector":"@s"}]
 
 team leave @s
 

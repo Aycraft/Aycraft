@@ -1,15 +1,15 @@
 #========================================
-# Mode(s) de déclenchement(s) :
-#     Event
-#
-# Déclencheur(s) :
-#     commun:load
-#
-# Fonction(s) du fichier :
-#     Initialise tous les scores relatifs aux stats du joueur
-#
-# Tag(s) utilisé(s) :
-#     ----
+# Mode de déclenchement :
+    # Event
+ 
+# Déclencheurs :
+    # commun:initialisation
+ 
+# Fonction du fichier :
+    # Initialise tous les scores relatifs aux stats du joueur
+ 
+# Tags utilisés :
+    # ----
 #========================================
 
 
@@ -31,3 +31,7 @@ scoreboard objectives add communS_KillPl minecraft.custom:minecraft.player_kills
 
 # communS_KillMo : Compte le nombres de mobs tués
 scoreboard objectives add communS_KillMo minecraft.custom:minecraft.mob_kills
+
+
+
+

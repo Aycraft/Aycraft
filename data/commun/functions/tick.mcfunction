@@ -1,16 +1,3 @@
-#========================================
-# Mode(s) de déclenchement(s) :
-#     Tick
-#
-# Déclencheur(s) :
-#     #minecraft:tick
-#
-# Fonction(s) du fichier :
-#     Lance toutes les fonctions en mode "tick" du dossier commun
-#
-# Tag(s) utilisé(s) :
-#     ----
-#========================================
 
 
 
