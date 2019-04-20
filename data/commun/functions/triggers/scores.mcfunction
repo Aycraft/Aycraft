@@ -26,3 +26,8 @@ scoreboard objectives add communT_EndPearl minecraft.used:minecraft.ender_pearl
 # communT_TalkVill : Trigger pour le fait de parler avec un villageois
 scoreboard objectives add communT_TalkVill minecraft.custom:minecraft.talked_to_villager
 
+# commun_Mouvement : Support de l'information de si le joueur est actuellement en train de faire un déplacement quelconque
+scoreboard objectives add communT_Movement dummy
+
+# communT_Temps : Supporte les différents intervalles de temps (stockés dans des fakeplayers)
+scoreboard objectives add communT_Temps dummy

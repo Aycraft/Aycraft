@@ -17,4 +17,5 @@
 # Serveur quitté
 scoreboard players set @s communT_QuitGame -1
 
-
+# Mouvement effectué
+scoreboard players set @s communT_Movement -1

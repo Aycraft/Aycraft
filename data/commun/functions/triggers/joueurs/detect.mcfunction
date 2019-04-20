@@ -18,5 +18,8 @@
 execute as @a unless score @s communT_QuitGame matches -1..0 run function commun:triggers/joueurs/reset
 execute as @a unless score @s communT_QuitGame matches -1 run scoreboard players add @s communT_QuitGame 1
 
-
+# Mouvement effectué
+execute as @a run function commun:triggers/joueurs/mouvement
+execute as @a unless score @s communT_Movement matches -1..0 run function commun:triggers/joueurs/reset
+execute as @a unless score @s communT_Movement matches -1 run scoreboard players add @s communT_Movement 1
 

@@ -22,22 +22,25 @@
 scoreboard players set @s[name=aygame] commun_Grade 15
 scoreboard players set @s[name=Fabaure] commun_Grade 14
 scoreboard players set @s[name=Haugtolas] commun_Grade 14
-scoreboard players set @s[name=mathaym25] commun_Grade 13
+scoreboard players set @s[name=mathaym25] commun_Grade 14
 scoreboard players set @s[name=Catsuri33] commun_Grade 11
 scoreboard players set @s[name=_Fire_Ghost_] commun_Grade 11
 scoreboard players set @s[name=matiousse12] commun_Grade 11
 scoreboard players set @s[name=Multicort] commun_Grade 11
 scoreboard players set @s[name=Vianpyro] commun_Grade 10
-scoreboard players set @s[name=vinzvador] commun_Grade 9
-scoreboard players set @s[name=marlax_] commun_Grade 9
+scoreboard players set @s[name=AtikaZ] commun_Grade 9
+scoreboard players set @s[name=Ayokoo] commun_Grade 9
+scoreboard players set @s[name=Kawabii_] commun_Grade 9
+scoreboard players set @s[name=_yorru_] commun_Grade 9
 scoreboard players set @s[name=zaled] commun_Grade 8
+scoreboard players set @s[name=Silvathor] commun_Grade 7
 
 	# Youtubeur -> VIP
 # pas fait
 
 	# Autres membres
-scoreboard players set @s[tag=commun_EstJoueurRandom,scores={commun_TempsJeu=36000..}] commun_Grade 1
-scoreboard players set @s[tag=commun_EstJoueurRandom,scores={commun_TempsJeu=..35999}] commun_Grade 0
+scoreboard players set @s[tag=commun_EstJoueurRandom,scores={communS_TempsJeu=36000..}] commun_Grade 1
+scoreboard players set @s[tag=commun_EstJoueurRandom,scores={communS_TempsJeu=..35999}] commun_Grade 0
 
 
 

@@ -23,7 +23,7 @@ team modify aFondateur color reset
 team modify aFondateur deathMessageVisibility never
 team modify aFondateur friendlyFire true
 team modify aFondateur nametagVisibility always
-team modify aFondateur prefix [{"text":"Fondateur","bold":true,"color":"gold"},{"text":" » ","color":"gray"}]
+team modify aFondateur prefix [{"text":"Fondateur","bold":true,"color":"gold"},{"text":" » ","bold":false,"color":"gray"}]
 team modify aFondateur seeFriendlyInvisibles false
 team modify aFondateur suffix {"text":""}
 
@@ -34,7 +34,7 @@ team modify bAdministrateur color reset
 team modify bAdministrateur deathMessageVisibility never
 team modify bAdministrateur friendlyFire true
 team modify bAdministrateur nametagVisibility always
-team modify bAdministrateur prefix [{"text":"Administrateur","color":"dark_red"},{"text":" » ","color":"gray"}]
+team modify bAdministrateur prefix [{"text":"Administrateur","color":"dark_red"},{"text":" » ","bold":false,"color":"gray"}]
 team modify bAdministrateur seeFriendlyInvisibles false
 team modify bAdministrateur suffix {"text":""}
 
@@ -45,7 +45,7 @@ team modify cIngenieurChef color reset
 team modify cIngenieurChef deathMessageVisibility never
 team modify cIngenieurChef friendlyFire true
 team modify cIngenieurChef nametagVisibility always
-team modify cIngenieurChef prefix [{"text":"Chef Ingénieur","bold":true,"color":"dark_green"},{"text":" » ","color":"gray"}]
+team modify cIngenieurChef prefix [{"text":"Chef Ingénieur","bold":true,"color":"dark_green"},{"text":" » ","bold":false,"color":"gray"}]
 team modify cIngenieurChef seeFriendlyInvisibles false
 team modify cIngenieurChef suffix {"text":""}
 
@@ -56,7 +56,7 @@ team modify dArchitecteChef color reset
 team modify dArchitecteChef deathMessageVisibility never
 team modify dArchitecteChef friendlyFire true
 team modify dArchitecteChef nametagVisibility always
-team modify dArchitecteChef prefix [{"text":"Chef Architecte","bold":true,"color":"dark_blue"},{"text":" » ","color":"gray"}]
+team modify dArchitecteChef prefix [{"text":"Chef Architecte","bold":true,"color":"dark_blue"},{"text":" » ","bold":false,"color":"gray"}]
 team modify dArchitecteChef seeFriendlyInvisibles false
 team modify dArchitecteChef suffix {"text":""}
 
@@ -111,7 +111,7 @@ team modify iIngenieurTest color reset
 team modify iIngenieurTest deathMessageVisibility never
 team modify iIngenieurTest friendlyFire true
 team modify iIngenieurTest nametagVisibility always
-team modify iIngenieurTest prefix [{"text":"Ingénieur Test","italic":true,"color":"dark_green"},{"text":" » ","color":"gray"}]
+team modify iIngenieurTest prefix [{"text":"Ingénieur Test","italic":true,"color":"dark_green"},{"text":" » ","italic":false,"color":"gray"}]
 team modify iIngenieurTest seeFriendlyInvisibles false
 team modify iIngenieurTest suffix {"text":""}
 
@@ -122,7 +122,7 @@ team modify jArchitecteTest color reset
 team modify jArchitecteTest deathMessageVisibility never
 team modify jArchitecteTest friendlyFire true
 team modify jArchitecteTest nametagVisibility always
-team modify jArchitecteTest prefix [{"text":"Architecte Test","italic":true,"color":"dark_blue"},{"text":" » ","color":"gray"}]
+team modify jArchitecteTest prefix [{"text":"Architecte Test","italic":true,"color":"dark_blue"},{"text":" » ","italic":false,"color":"gray"}]
 team modify jArchitecteTest seeFriendlyInvisibles false
 team modify jArchitecteTest suffix {"text":""}
 

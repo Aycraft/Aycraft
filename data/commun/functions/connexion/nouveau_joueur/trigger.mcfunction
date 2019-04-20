@@ -16,7 +16,7 @@
 
 # Set de l'UUID
 
-function commun:outils/uuid/attribution
+function commun:outils/uuid/joueurs/attribution
 
 
 

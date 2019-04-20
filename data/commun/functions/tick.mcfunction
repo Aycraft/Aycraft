@@ -12,3 +12,7 @@ function commun:connexion/ancien_joueur/detection
 function commun:triggers/entitees/detect
 function commun:triggers/items/detect
 function commun:triggers/joueurs/detect
+function commun:triggers/autres/detect
+
+# Outils
+function commun:outils/jeu/refresh

@@ -115,3 +115,9 @@ scoreboard players set 97 commun_Constante 97
 scoreboard players set 98 commun_Constante 98
 scoreboard players set 99 commun_Constante 99
 scoreboard players set 100 commun_Constante 100
+
+scoreboard players set 1000 commun_Constante 1000
+
+scoreboard players set 10000 commun_Constante 10000
+
+scoreboard players set 100000 commun_Constante 100000
