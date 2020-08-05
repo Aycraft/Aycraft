@@ -17,9 +17,14 @@
 # Fait en sorte que les joueurs aient leur grade quand il faut
 function commun:grades/protection/verification
 
-# Détecte un joueur qui se connecte ou se déconnecte
-function commun:connexion/nouveau_joueur/detection
-function commun:connexion/ancien_joueur/detection
+# Détecte un nouveau joueur qui se connecte
+execute as @a unless score @s commun_UUID matches 1.. run function commun:connexion/nouveau
+
+# Détecte un ancien joueur qui se connecte
+execute as @a[scores={communT_QuitGame=1..}] run function commun:connexion/detection
+
+# Détecte un joueur qui à joué 30min
+execute as @a if score @s communS_TempsJeu matches 36000 run function commun:connexion/grade_joueur
 
 # Actualise les triggers
 function commun:triggers/entitees/detect
